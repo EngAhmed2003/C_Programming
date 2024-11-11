@@ -28,4 +28,5 @@ int main(void)
 	}while (c == 'Y' || c == 'y');
 
 	printf("Exiting program.\n");
+	return 0 ;
 }

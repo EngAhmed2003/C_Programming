@@ -36,4 +36,5 @@ int main(void)
 	} while(c=='Y' || c=='y') ;
 
 	printf("Existing Program.") ;
+	return 0 ;
 }
